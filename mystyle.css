@@ -1,0 +1,28 @@
+#join_us {
+  width: 150px;
+  height: 222px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 35px;
+}
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #70ad47;
+}
+#links {
+    position: absolute;
+    top: 130px;
+    left: 230px;
+   width: 1041px;
+   height: 100px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 27px;
+}
+#title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    margin: 1px;
+}
