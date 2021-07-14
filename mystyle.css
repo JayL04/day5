@@ -5,6 +5,7 @@
     float: left;
     padding: 15px;
 }
+
 html {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -14,23 +15,11 @@ html {
     width: 100%;
 }
 #title {
-    position: absolute;
+    position: relative;
     top: 10px;
     left: 235px;
     font-size: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-#join_us {
-  width: 11%;
-  height: 222px;
-  position: absolute;
-  float: right;
-  top: 8px;
-  right: 8px;
-  bottom: auto;
-  left: auto;
-   font-size: 35px;
-   padding: 0px;
 }
 #logo {
     float: left;
@@ -42,10 +31,8 @@ html {
 }
 #links {
     position: absolute;
-    top: 130px;
-    left: 230px;
-   width: 1041px;
-   height: 100px;
+    float: right;
+   width: 72.64%;
    font-size: 27px;
 }
 .col-1 {width: 8.33%;}
