@@ -41,9 +41,14 @@ html {
    height: auto;
    font-size: x-large;
 }
-#page-info{
+#page-info {
     max-width: 1040px;
 }
+#adoption-form {
+    margin: 10px;
+}
+
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
